@@ -217,7 +217,7 @@ func main() {
 	swimming := Swimming{
 		Training: Training{
 			TrainingType: "Плавание",
-			Action:       2000,
+			Action:       180,
 			LenStep:      SwimmingLenStep,
 			Duration:     90 * time.Minute,
 			Weight:       85,
